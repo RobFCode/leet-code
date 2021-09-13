@@ -1,2 +1,2 @@
 # leet-code
-Collection of active and completed Leet-Code Challenges
+Collection of completed Leet-Code Challenges...
